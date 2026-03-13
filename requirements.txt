@@ -1,0 +1,6 @@
+python-telegram-bot
+rembg
+pillow
+opencv-python
+torch
+torchvision
